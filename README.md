@@ -10,3 +10,8 @@ git add .
 git status
 git commit -m "message what have you done"
 git push origin master
+git branch 
+git branch test 
+git branch 
+git checkout test 
+git branch
